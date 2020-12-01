@@ -4,6 +4,34 @@
  * Licensed under MIT (https://github.com/StartBootstrap/startbootstrap-new-age/blob/master/LICENSE)
  */
 
+#imglogo {
+  -webkit-filter: invert(100%) sepia(6%) saturate(1%) hue-rotate(87deg) brightness(107%) contrast(100%);
+  filter: invert(100%) sepia(6%) saturate(1%) hue-rotate(87deg) brightness(107%) contrast(100%);
+}
+
+#mainNav.navbar-shrink #imglogo {
+  -webkit-filter: invert(0%);
+  filter: invert(0%);
+}
+
+#imglogo:hover {
+  -webkit-filter: invert(94%) sepia(16%) saturate(7102%) hue-rotate(339deg) brightness(100%) contrast(98%);
+  filter: invert(94%) sepia(16%) saturate(7102%) hue-rotate(339deg) brightness(100%) contrast(98%);
+}
+
+#mainNav.navbar-shrink:hover #imglogo {
+  -webkit-filter: invert(94%) sepia(16%) saturate(7102%) hue-rotate(339deg) brightness(100%) contrast(98%);
+  filter: invert(94%) sepia(16%) saturate(7102%) hue-rotate(339deg) brightness(100%) contrast(98%);
+}
+
+.flink {
+  color: #007bff;
+}
+
+.flink:hover {
+  color: #0056b3;
+}
+
 html,
 body {
   width: 100%;
@@ -69,7 +97,7 @@ section h2 {
 }
 
 #mainNav .navbar-brand {
-  color: #fdcc52;
+  color: white;
   font-family: 'Catamaran', 'Helvetica', 'Arial', 'sans-serif';
   font-weight: 200;
   letter-spacing: 1px;
