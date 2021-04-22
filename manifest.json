@@ -1,9 +1,9 @@
 {
-  "alphaSHA256" : "df8d671e85a2fde60b64558f1af01dccc4ea633139b6bd4fb40a55142739b642",
+  "alphaSHA256" : "e60e8178214883fc85328b8cd614ec775d4eb84e162c3d84e41f5225ba01625c",
   "updaterVersion" : "1.1",
-  "releaseSHA256" : "5dee5d5d16b7941059db48dfe3d8de9c25004bc07819f053986a59a49ad16c8d",
-  "releaseVersion" : "2.2.6",
-  "betaVersion" : "2.2.8beta5",
-  "alphaVersion" : "2.2.8beta5",
-  "betaSHA256" : "df8d671e85a2fde60b64558f1af01dccc4ea633139b6bd4fb40a55142739b642"
+  "releaseSHA256" : "e60e8178214883fc85328b8cd614ec775d4eb84e162c3d84e41f5225ba01625c",
+  "releaseVersion" : "2.3.0",
+  "betaVersion" : "2.3.0",
+  "alphaVersion" : "2.3.0",
+  "betaSHA256" : "e60e8178214883fc85328b8cd614ec775d4eb84e162c3d84e41f5225ba01625c"
 }
